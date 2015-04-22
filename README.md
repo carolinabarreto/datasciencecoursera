@@ -1,2 +1,2 @@
 # datasciencecoursera
-Course Project Corsera Week3
+Course Project Coursera Week3
